@@ -6,6 +6,8 @@ This SQL portfolio project analyzes wholesale liquor purchases by licensed Iowa 
 
 [Read the full case study (PDF)](Documentation/Iowa_Liquor_Sales_SQL_Case_Study.pdf)
 
+📄 [View the One-Page Executive Summary](Documentation/Iowa_Liquor_Sales_Executive_Summary.pdf)
+
 ## Project Objective
 
 The objective is to transform a large public sales dataset into clear business insights by:
